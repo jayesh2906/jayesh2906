@@ -1,2 +1,2 @@
-# 👋 Heya! I’m Jayesh
+# 👋 Hey! I’m Jayesh
 I'm a full-stack web developer(MERN). 
