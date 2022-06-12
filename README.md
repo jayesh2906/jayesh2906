@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/jayesh-choudhary-72444518b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-choudhary-72444518b" height="30" width="40" /></a>
 <a href="https://fb.com/jayesh.choudhary.9461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayesh.choudhary.9461" height="30" width="40" /></a>
 <a href="https://instagram.com/insta__jc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta__jc" height="30" width="40" /></a>
+<a href="https://twitter.com/JayeshMERN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insta__jc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
