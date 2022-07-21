@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a live project as a React developer at Mindtree**
 
-- 👨‍💻 All of my projects are available at [https://jayesh2906.github.io/](https://jayesh2906.github.io/)
+- 👨‍💻 All of my projects are available at [https://google-portfolio.vercel.app/](https://google-portfolio.vercel.app/)
 
 - 📫 How to reach me **jayesh.choudhary2906@gmail.com**
 
