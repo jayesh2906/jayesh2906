@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
 <h3 align="center">A passionate full-stack developer from India🇮🇳</h3>
 
-- 🔭 I’m currently working on **a live project as a React developer at Microsoft Nuance.**
+- 🔭 I’m currently working on **a live project as a React developer at Microsoft.**
 
 - 👨‍💻 All of my projects are available at [https://google-portfolio.vercel.app/](https://google-portfolio.vercel.app/)
 
